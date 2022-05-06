@@ -1,3 +1,6 @@
+# Some local files
+powershell.lnk
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
