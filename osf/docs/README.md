@@ -2,6 +2,10 @@
 docs on osf project for emox
 
 
+## 24-apr-2022-tw
++ Teori Pengembangan Wilayah &bull; [docx](https://osf.io/bxdf8/)
+
+
 ## 17-apr-2022-tw
 + Novelty Penelitian &bull; [docx](https://osf.io/7bajc/)
 
