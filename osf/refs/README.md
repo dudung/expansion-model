@@ -11,4 +11,3 @@ refs on osf project for emox
 
 ## 24-mar-2022-iks
 + Research Design (Creswell & Creswell, 2018) &bull; [pdf](https://osf.io/s5mva/)
-+ 
