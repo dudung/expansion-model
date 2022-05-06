@@ -34,7 +34,10 @@ Sustainability related Investment Studies (Happonen et al., 2021) &bull; [pdf](h
 + Location, Location, Location: Exploring the Complex Relationship between Creative Industries and Place (Comunian et al., 2010) &bull; [pdf](https://osf.io/9mxqf/)
 + Using Gravity Models for the Evaluation of New University Site
 Locations: A Case Study (Bruno & Improta, 2008) &bull; [pdf](https://osf.io/7pt69/)
-+ 
-
-
-
++ The Spatial Evolution of the British Automobile Industry: Does Location
+Matter? (Boschma & Wenting, 2007) &bull; [pdf](https://osf.io/35zwv/)
++ The Location Quotient as an Estimator of Industrial Concentration (Billings & Johnson, 2012) &bull; [pdf](https://osf.io/mv6pc/)
++ Agent-Based Joint Model of Residential Location Choice and Real Estate
+Price for Land Use and Transport Model (Zhuge et al., 2016) &bull; [pdf](https://osf.io/48qjn/)
++ Does the Accessibility Measure Influence the Results
+of Residential Location Choice Modelling? (Baraklianos et al., 2018) &bull; [pdf](https://osf.io/vygcz/)
