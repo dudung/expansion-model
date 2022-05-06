@@ -41,3 +41,9 @@ Matter? (Boschma & Wenting, 2007) &bull; [pdf](https://osf.io/35zwv/)
 Price for Land Use and Transport Model (Zhuge et al., 2016) &bull; [pdf](https://osf.io/48qjn/)
 + Does the Accessibility Measure Influence the Results
 of Residential Location Choice Modelling? (Baraklianos et al., 2018) &bull; [pdf](https://osf.io/vygcz/)
++ Gravity Models of Spatial Interaction Behavior (Sen & Smith, 1995) &bull; [pdf](https://osf.io/y427p/)
++ Consumer Choice and Optimal Locations Models: Formulations and Heuristics (Serra & Colome, 2001) &bull; [pdf](https://osf.io/8nhvp/)
+
+
+## 19-feb-2022-ts
++ Optimization of Inter-Cluster Economic and Financial, Information and Logistics Interaction in Conditions of Stochastic Uncertainty (Jashin & Koshelev, 2021) &bull; [pdf](https://osf.io/6j28w/)
