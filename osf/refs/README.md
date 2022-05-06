@@ -27,5 +27,14 @@ Sustainability related Investment Studies (Happonen et al., 2021) &bull; [pdf](h
 
 
 ## 08-mar-2022-iks
-+ Methods of Interregional and Regional Analysis (Isard et al., 1998) &bull; [pdf]()
++ Methods of Interregional and Regional Analysis (Isard et al., 1998) &bull; [pdf](https://osf.io/mfead/)
+
+
+## 06-mar-2022-iks
++ Location, Location, Location: Exploring the Complex Relationship between Creative Industries and Place (Comunian et al., 2010) &bull; [pdf](https://osf.io/9mxqf/)
++ Using Gravity Models for the Evaluation of New University Site
+Locations: A Case Study (Bruno & Improta, 2008) &bull; [pdf](https://osf.io/7pt69/)
++ 
+
+
 
