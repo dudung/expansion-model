@@ -8,9 +8,9 @@ docs on osf project for emox
 + `15-apr-2022-tw` &nbsp; Paper for jurnal (210322) &bull; [docx](https://osf.io/7nhaq/)
 + `15-apr-2022-mf` &nbsp; P_SUR (290322) &bull; [docx](https://osf.io/qzp2f/)
 + `01-apr-2022-tw` &nbsp; Pedoman wawancara tenant &bull; [docx](https://osf.io/jvf2b/)
-+ `26-mar-2022-tw` &nbsp; Pedoman wawancara direktur &bull; <r style='color:#f88;'>docx</r>
-+ `18-mar-2022-tw` &nbsp; paper for journal &bull; <r style='color:#f88;'>docx</r>
-+ `16-mar-2022-ik` &nbsp; P_SUR (160322) &bull; <r style='color:#f88;'>docx</r>
++ `26-mar-2022-tw` &nbsp; Pedoman wawancara direktur &bull; :x:
++ `18-mar-2022-tw` &nbsp; paper for journal &bull; :x:
++ `16-mar-2022-ik` &nbsp; P_SUR (160322) &bull; :x:
 + `12-mar-2022-tw` &nbsp; P_SUR (120322) &bull; [docx](https://osf.io/mw4q7/)
 + `10-mar-2022-mf` &nbsp; P_SUR (100322) &bull; [docx](https://osf.io/63nsv/)
 + `09-mar-2022-tw` &nbsp; Model Gravitasi dalam Pemilihan Lokasi Industri &bull; [docx](https://osf.io/893fs/)
