@@ -2,5 +2,5 @@
 expansion model of x
 
 
-## folders
-+ [osf](osf/README.md)
+## model
++ [thermal expansion](thermal/README.md)
