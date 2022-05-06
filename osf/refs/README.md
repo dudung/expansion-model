@@ -26,6 +26,10 @@ Viability Appraisal Modelling (Byrne et al., 2011) &bull; [pdf](https://osf.io/g
 Sustainability related Investment Studies (Happonen et al., 2021) &bull; [pdf](https://osf.io/4dzpt/)
 
 
+## 11-mar-2022-ts
++ Economic Value-Added: A Review of the Theoretical and Empirical Literature (Worthington & West, 2001) &bull; [pdf](https://osf.io/jk5ua/)
+
+
 ## 08-mar-2022-iks
 + Methods of Interregional and Regional Analysis (Isard et al., 1998) &bull; [pdf](https://osf.io/mfead/)
 
