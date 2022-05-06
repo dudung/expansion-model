@@ -3,4 +3,4 @@ thermal expansion model
 
 
 ## examples
-+ [thermal_expansion_model](thermal_expansion_model.ipynb)
++ [linear_expansion](linear_expansion.ipynb)
