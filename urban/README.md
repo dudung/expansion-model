@@ -3,4 +3,4 @@ urban expansion model
 
 
 ## examples
-+ [uem_approach](uem_approach.ipynb)
++ [uem_approaches](uem_approaches.ipynb)
