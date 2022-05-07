@@ -3,8 +3,8 @@ zoom (and meet) meeting for emox
 
 
 ## meeting
-+ `12-mar-2022-tw` &nbsp; Expansion Model &bull; [Zoom](https://us05web.zoom.us/j/4880790053)
-+ `04-mar-2022-tw` &nbsp; Regular Meeting &bull; [Zoom](https://us02web.zoom.us/j/87972028959)
++ `12-mar-2022-tw` &nbsp; Expansion Model 0800 &bull; [Zoom](https://us05web.zoom.us/j/4880790053)
++ `04-mar-2022-tw` &nbsp; Regular Meeting 1330 &bull; [Zoom](https://us02web.zoom.us/j/87972028959)
 + `02-mar-2022-ts` &nbsp; After SUR 2000 &bull; [Zoom](https://us02web.zoom.us/j/81229951643)
 + `02-mar-2022-ts` &nbsp; SUR 1100 &bull; [Zoom](https://zoom.us/j/92869876239)
 + `01-mar-2022-mf` &nbsp; Technical Meeting 1710 &bull; [Zoom](https://us02web.zoom.us/j/88164359907)
