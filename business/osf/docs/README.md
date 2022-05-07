@@ -15,3 +15,4 @@ docs on osf project for emox
 + `10-mar-2022-mf` &nbsp; P_SUR (100322) &bull; [docx](https://osf.io/63nsv/)
 + `09-mar-2022-tw` &nbsp; Model Gravitasi dalam Pemilihan Lokasi Industri &bull; [docx](https://osf.io/893fs/)
 + `05-mar-2022-sv` &nbsp; Penerapan Model Gravitasi &bull; [pptx](https://osf.io/9s3pk/) &bull; [xlsx](https://osf.io/y4zw6/)
++ `24-mar-2022-mf` &nbsp; Mind Map &bull; [pdf](https://osf.io/zusm7/)

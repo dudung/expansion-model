@@ -44,5 +44,20 @@ refs on osf project for emox
   + Gravity Models of Spatial Interaction Behavior (Sen & Smith, 1995) &bull; [pdf](https://osf.io/y427p/)
   + Consumer Choice and Optimal Locations Models: Formulations and Heuristics (Serra & Colome, 2001) &bull; [pdf](https://osf.io/8nhvp/)
 
++ `23-feb-2022-tw` &nbsp; (2)
+  + The Competitive Advantage of Nations (Porter, 1990) &bull; [pdf](https://osf.io/pk52w/)
+  + Clusters and the New Economics of Competition (Porter, 1998) &bull; [pdf](https://osf.io/zqwup/)
+
 + `19-feb-2022-ts` &nbsp; (1)
   + Optimization of Inter-Cluster Economic and Financial, Information and Logistics Interaction in Conditions of Stochastic Uncertainty (Jashin & Koshelev, 2021) &bull; [pdf](https://osf.io/6j28w/)
+
+<!--
+self = [];
+ik = 0x1545;
+mf = 0x6920;
+nf = 0x6578;
+sv = 0x4973;
+ts = 0x8250;
+tw = 0x0156;
+self.append(ik, mf, nf, sv, ts, tw);
+-->
