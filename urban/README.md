@@ -6,3 +6,4 @@ urban expansion model
 + [uem_approaches](uem_approaches.ipynb)
 + [pmw_jabar_2022](pmw_jabar_2022.ipynb)
 + [code_jabar_2014](code_jabar_2014.ipynb)
++ [bubble_chart_pmw](bubble_chart_pmw.ipynb)
