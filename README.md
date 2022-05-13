@@ -11,8 +11,4 @@ expansion model of x
 + [thermal](thermal/README.md)
 + [urban](urban/README.md)
 + [universe](universe/README.md)
-
-![](https://iili.io/W8dWj1.png)
-
-![](https://images2.imgbox.com/36/66/KBkrvHwX_o.png)
-
+  <br><br>![](https://live.staticflickr.com/65535/52071197014_d830e38ede_m.jpg)
