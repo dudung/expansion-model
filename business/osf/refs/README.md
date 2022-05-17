@@ -3,6 +3,10 @@ refs on osf project for emox
 
 
 ## proposed
++ `17-apr-22-ts` &nbsp; (2)
+  + Research Trends and Mapping on Social Media in SMEs: A Bibliometric Analysis (Thaha et al., 2021) [pdf](https://osf.io/3ms46/)
+  + Digital Marketing and SMEs: A Systematic Mapping Study (Thaha et al., 2021) [pdf](https://osf.io/bsah6/)
+
 + `28-apr-2022-tw` &nbsp; (5)
   + Agglomeration, Clusters and Entrepreneurship (Karlsson et al., eds., 2014) &bull; [pdf](https://osf.io/mqb93/)
   + Economics of Agglomeration (Fujita & Thisse, 2002) &bull; [pdf](https://osf.io/udza9/)
